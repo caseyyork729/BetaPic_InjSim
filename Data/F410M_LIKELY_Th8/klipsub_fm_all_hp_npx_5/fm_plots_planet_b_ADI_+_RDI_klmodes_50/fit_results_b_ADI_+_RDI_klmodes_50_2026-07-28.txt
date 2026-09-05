@@ -1,0 +1,4 @@
+Parameter, Best Fit, Error
+separation_mas=550.70953 +/- 1.82518
+pa_deg=30.49268 +/- 0.15768
+flux=404476.11871 +/- 10304.45753

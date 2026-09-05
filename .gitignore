@@ -1,0 +1,17 @@
+# Ignore fits files and jupyter notebooks
+*.fits
+*.ipynb
+
+# Ignore other larger data
+F210M/
+F410M/
+
+F210M_LIKELY_Th8/aligned/
+F210M_LIKELY_Th8/coadded/
+F210M_LIKELY_Th8/coadded_hp_npx_5/
+F210M_LIKELY_Th8/klipsub_fm_all_hp_npx_5/
+
+F410M_LIKELY_Th8/aligned/
+F410M_LIKELY_Th8/coadded/
+F410M_LIKELY_Th8/coadded_hp_npx_5/
+F410M_LIKELY_Th8/klipsub_fm_all_hp_npx_5/
